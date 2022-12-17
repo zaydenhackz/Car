@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Car Jamires_car = new Car("Dodge", "Durango", "Black", 2018);
+
     }
 }
